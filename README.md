@@ -1,2 +1,3 @@
 # Code_review_trial
-The repository is for practising code review process.
+
+The repository is for learn code review process.
